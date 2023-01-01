@@ -1,0 +1,16 @@
+plan = 
+{
+	"content":
+	[
+		{
+			"date"		: "2021 , 1 , 21" , 
+			"start_time": "10",
+			"end_time"	: "11",
+			"detals"	: ""
+		},
+		
+	]
+}
+
+for plan in content["date"]:
+	print(plan)
